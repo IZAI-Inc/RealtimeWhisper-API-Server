@@ -1,0 +1,6 @@
+whisper
+soundfile
+librosa
+torch>=2.0.0
+torchaudio
+numpy 
